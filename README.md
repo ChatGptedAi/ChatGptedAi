@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate developer from **France**, and I'm here to showcase the potential of **AI-driven development**, especially using **ChatGPT** to enhance and accelerate coding projects. 🚀
 
-![Header Image](https://media.discordapp.net/attachments/1310805106953949258/1310816357646073856/f00a9f08ecc375dd4f909836240aed70.jpg?ex=6746985d&is=674546dd&hm=738099b3c8d208a0b2d523558c8c893b08e203c25f663aa115abfd5d7cd3bdc1&=&format=webp)
+![Header Image](https://cdn.gencraft.com/prod/user/54d5127a-5aa5-4835-982b-a85c577240dc/285ebf00-a725-4d21-918f-524a7a310481/image/image1_0.jpg?Expires=1740369501&Signature=UoO-I4bRXAFZBG~pu~nGupRRqCA6CuPG1HcYNvfd6bpGL3BgDMzKcwsSNqWPQSeD08rGEonXuOSzmeJ0rlj0zWoUeiDdKnhcbW3oXptSUTyzEAsACvXTrHKuRoakLLbUw~3wS~pf70mS3WhG5Zz7q7R50A1CdLz7Z78taPo9QpGGxT1eZ-8RHhkvmV3w-ORQiszQmk3ih2pxmqTiJOUZPLkJyHtPL88WbiMTHZupMp98s3BABjMjCVPpu4IOboo7tWkZFgplnlB-x52HNHrI0ozzUePRdVj09SGN0IAAdC91XxTgC~RCADvLhTcycGtYM1KXkidgyjpHUWIXk0~UuA__&Key-Pair-Id=K3RDDB1TZ8BHT8)
 
 ## About Me 👨‍💻
 
