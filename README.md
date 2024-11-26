@@ -15,6 +15,8 @@ Welcome to my GitHub profile! I'm a passionate developer from **France**, and I'
   - **HTML/CSS** 🌐
   - **PHP** 🔧
   - **Ruby** 💎
+  - **C** 🖥️
+  - **C++** ⚙️
 
 I’m passionate about exploring the power of AI, particularly **ChatGPT**, to create software solutions. My goal is to demonstrate how AI can be used to create, automate, and enhance applications by building unique projects **generated with ChatGPT**.
 
