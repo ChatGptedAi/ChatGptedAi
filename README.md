@@ -48,7 +48,7 @@ I'm here to show how **ChatGPT** can be a **powerful ally** in your development 
 ### **Languages**:
 - ![JavaScript Badge](https://img.shields.io/badge/JavaScript-%20-yellow?style=for-the-badge&logo=javascript)
 - ![Python Badge](https://img.shields.io/badge/Python-%20-blue?style=for-the-badge&logo=python)
-- ![HTML/CSS Badge](https://img.shields.io/badge/HTML5-CSS3-%20-%23F7B500?style=for-the-badge&logo=html5&logoColor=white)
+- ![HTML/CSS Badge](https://img.shields.io/badge/HTML5%20and%20CSS3-%20-%23F7B500?style=for-the-badge&logo=html5&logoColor=white)
 
 ### **Tools & Frameworks**:
 - ![Node.js Badge](https://img.shields.io/badge/Node.js-%20-green?style=for-the-badge&logo=node.js)
