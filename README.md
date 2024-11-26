@@ -71,7 +71,7 @@ I'm here to show how **ChatGPT** can be a **powerful ally** in your development 
 Feel free to reach out if you want to collaborate, discuss AI-driven development, or just chat about programming! 😄
 
 - **Email**: [zertraxdiscord@proton.me](mailto:zertraxdiscord@proton.me)
-- **Discord**: [errxr404.]
+- **Discord**: @errxr404.
 
 ---
 
