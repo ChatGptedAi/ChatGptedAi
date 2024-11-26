@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate developer from **France**, and I'm here to showcase the potential of **AI-driven development**, especially using **ChatGPT** to enhance and accelerate coding projects. 🚀
 
-![Header Image](https://via.placeholder.com/1200x200.png?text=Welcome+to+Errxr's+GitHub+Profile)
+![Header Image](https://media.discordapp.net/attachments/1310805106953949258/1310816357646073856/f00a9f08ecc375dd4f909836240aed70.jpg?ex=6746985d&is=674546dd&hm=738099b3c8d208a0b2d523558c8c893b08e203c25f663aa115abfd5d7cd3bdc1&=&format=webp)
 
 ## About Me 👨‍💻
 
